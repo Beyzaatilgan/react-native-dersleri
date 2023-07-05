@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const turkiye = () => {
+const istanbul = () => {
   return (
     <View>
-      <Text>turkiye</Text>
+      <Text>istanbul Turkiyede bulunan bir İldir.</Text>
     </View>
   )
 }
 
-export default turkiye
+export default istanbul
